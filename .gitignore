@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (adjust — you may want small CSVs tracked)
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
